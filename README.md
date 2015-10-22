@@ -2,11 +2,13 @@
 
 It's been a while since I wanted to get some sort of introduction to meditation.
 A friend recommended [Mindfulness in Plain English][1]. There are plenty of pdfs
-online, but no epubs or mobi.
+online, but no epubs or mobi...
 
 [1]: http://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English
 
 # How
+
+0. Try `pdftotext` -> text -> markdown -> epub. Too much manual cleanup to do...
 
 1. `$ cat get_mpe.py`
 
@@ -23,7 +25,7 @@ chaps = [x.values()[0] for x in  d('blockquote p a')]
 
 for ch in chaps:
     if ch.startswith('mind'):
-        page = requests.get(URL+'/'+ ch)
+        page = requests.get(BASEURL+'/'+ ch)
         with open('/tmp/'+ch, 'w') as fp:
             fp.write(page.text)
 ```
