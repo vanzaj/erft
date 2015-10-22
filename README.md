@@ -4,7 +4,7 @@ It's been a while since I wanted to get some sort of introduction to meditation.
 A friend recommended [Mindfulness in Plain English][1]. There are plenty of pdfs
 online, but no epubs or mobi.
 
-1: http://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English
+[1]: http://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English
 
 # How
 
