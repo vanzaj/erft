@@ -9,5 +9,6 @@ they can be easily converted to epub/mobi with `pandoc` and `kindlgen`:
 ## Texts
 
 - Bastiat, Frédéric: Ce qu'on voit et ce qu'on ne voit pas (*fr*)
+- Boyd, John R.: Destruction and Creation
 - Haldane, John B. S.: On Being the Right Size
 - Hamming, Richard: You and Your Research
