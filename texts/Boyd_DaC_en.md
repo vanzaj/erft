@@ -1,4 +1,4 @@
-% DESTRUCTION AND CREATION
+% Destruction and Creation
 % John R. Boyd
 % September 3, 1976
 
@@ -37,7 +37,7 @@ collective body in order to improve their capacity for independent action.
 In a real world of limited resources and skills, individuals and groups form,
 dissolve and reform their cooperative or competitive postures in a continuous
 struggle to remove or overcome physical and social environmental obstacles
-([^11], [^13]) In a cooperative sense, where skills and talents are
+(11, 13) In a cooperative sense, where skills and talents are
 pooled, the removal or overcoming of obstacles represents an improved capacity
 for independent action for all concerned. In a competitive sense, where
 individuals and groups compete for scarce resources and skills, an improved
@@ -45,7 +45,7 @@ capacity for independent action achieved by some individuals or groups
 constrains that capacity for other individuals or groups. Naturally, such a
 combination of real world scarcity and goal striving to overcome this scarcity
 intensifies the struggle of individuals and groups to cope with both their
-physical and social environments ([^11], [^13]).
+physical and social environments (11, 13).
 
 ## Need for Decisions
 
@@ -58,11 +58,14 @@ perceive it, and be able to change these concepts as reality itself appears to
 change. The concepts can then be used as decision-models for improving our
 capacity for independent action. Such a demand for decisions that literally
 impact our survival causes one to wonder: How do we generate or create the
-mental concepts to support this decision-making activity?  Creating Concepts
+mental concepts to support this decision-making activity?
+
+## Creating Concepts
+
 There are two ways in which we can develop and manipulate mental concepts to
 represent observed reality: We can start from a comprehensive whole and break it
 down to its particulars or we can start with the particulars and build towards a
-comprehensive whole ([^28]/[^24]). Saying it another way, but in a related
+comprehensive whole (28/24). Saying it another way, but in a related
 sense, we can go from the general-to-specific or from the specific-to-general.
 A little reflection here reveals that deduction is related to proceeding from
 the general-to-specific while induction is related to proceeding from the
@@ -107,7 +110,7 @@ integration the thought occurs that a new domain or concept can be formed if we
 can find some common qualities, attributes, or operations among some or many of
 these constituents swimming in this sea of anarchy. Through such connecting
 threads (that produce meaning) we synthesize constituents from, hence across,
-the domains we have just shattered ([^24]). Linking particulars together in
+the domains we have just shattered (24). Linking particulars together in
 this manner we can form a new domain or concept -- providing, of course, we do
 not inadvertently use only those "bits and pieces" in the same arrangement that
 we associated with one of the domains purged from our imagination. Clearly, such
@@ -126,25 +129,24 @@ Recalling that we use concepts or mental patterns to represent reality, it
 follows that the unstructuring and restructuring just shown reveals a way of
 changing our perception of reality.(28) Naturally, such a notion implies that
 the emerging pattern of ideas and interactions must be internally consistent and
-match-up with reality ([^14], [^25]). To check or verify internal
-consistency we try to see if we can trace our way back to the original
-constituents that were used in the creative or constructive induction. If we
-cannot reverse directions, the ideas and interactions do not go together in this
-way without contradiction.  Hence, they are not internally consistent. However,
-this does not necessarily mean we reject and throw away the entire structure.
-Instead, we should attempt to identify those ideas (particulars) and
-interactions that seem to hold together in a coherent pattern of activity as
-distinguished from those ideas that do not seem to fit in. In performing this
-task we check for reversibility as well as check to see which ideas and
-interactions match-up with our observations of reality ([^27], [^14],
-[^15]). Using those ideas and interactions that pass this test together with
-any new ideas (from new destructive deductions) or other promising ideas that
-popped out of the original destructive deduction we again attempt to find some
-common qualities, attributes or operations to re-create the concept -- or create
-a new concept. Also, once again, we perform the check for reversibility and
-match-up with reality. Over and over again this cycle of Destruction and
-Creation is repeated until we demonstrate internal consistency and match-up with
-reality ([^19], [^14], [^15]).
+match-up with reality (14, 25). To check or verify internal consistency we try
+to see if we can trace our way back to the original constituents that were used
+in the creative or constructive induction. If we cannot reverse directions, the
+ideas and interactions do not go together in this way without contradiction.
+Hence, they are not internally consistent. However, this does not necessarily
+mean we reject and throw away the entire structure.  Instead, we should attempt
+to identify those ideas (particulars) and interactions that seem to hold
+together in a coherent pattern of activity as distinguished from those ideas
+that do not seem to fit in. In performing this task we check for reversibility
+as well as check to see which ideas and interactions match-up with our
+observations of reality (27, 14, 15). Using those ideas and interactions that
+pass this test together with any new ideas (from new destructive deductions) or
+other promising ideas that popped out of the original destructive deduction we
+again attempt to find some common qualities, attributes or operations to
+re-create the concept -- or create a new concept. Also, once again, we perform
+the check for reversibility and match-up with reality. Over and over again this
+cycle of Destruction and Creation is repeated until we demonstrate internal
+consistency and match-up with reality (19, 14, 15).
 
 ## Suspicion
 
@@ -152,16 +154,16 @@ When this orderly (and pleasant) state is reached the concept becomes a coherent
 pattern of ideas and interactions that can be used to describe some aspect of
 observed reality. As a consequence, there is little, or no, further appeal to
 alternative ideas and interactions in an effort to either expand, complete, or
-modify the concept ([^19]). Instead, the effort is turned inward towards fine
+modify the concept (19). Instead, the effort is turned inward towards fine
 tuning the ideas and interactions in order to improve generality and produce a
-more precise match of the conceptual pattern with reality ([^19]). Toward
+more precise match of the conceptual pattern with reality (19). Toward
 this end, the concept -- and its internal workings -- is tested and compared
 against observed phenomena over and over again in many different and subtle ways
-([^19]). Such a repeated and inward-oriented effort to explain increasingly
+(19). Such a repeated and inward-oriented effort to explain increasingly
 more subtle aspects of reality suggests the disturbing idea that perhaps, at
 some point, ambiguities, uncertainties, anomalies, or apparent inconsistencies
 may emerge to stifle a more general and precise match-up of concept with
-observed reality ([^19]).  Why do we suspect this?
+observed reality (19).  Why do we suspect this?
 
 On one hand, we realize that facts, perceptions, ideas, impressions,
 interactions, etc. separated from previous observations and thought patterns
@@ -184,12 +186,12 @@ Heisenberg.
 
 In 1931 Kurt Gödel created a stir in the World of Mathematics and Logic when he
 revealed that it was impossible to embrace mathematics within a single system of
-logic ([^12], [^23]). He accomplished this by proving, first, that any
-consistent system that includes the arithmetic of whole numbers is incomplete.
-In other words, there are true statements or concepts within the system that
-cannot be deduced from the postulates that make-up the system. Next, he proved
-even though such a system is consistent, its consistency cannot be demonstrated
-within the system.
+logic (12, 23). He accomplished this by proving, first, that any consistent
+system that includes the arithmetic of whole numbers is incomplete.  In other
+words, there are true statements or concepts within the system that cannot be
+deduced from the postulates that make-up the system. Next, he proved even though
+such a system is consistent, its consistency cannot be demonstrated within the
+system.
 
 Such a result does not imply that it is impossible to prove the consistency of a
 system. It only means that such a proof cannot be accomplished inside the
@@ -197,9 +199,8 @@ system. As a matter of fact since Gödel, Gerhard Gentzen and others have shown
 that a consistency proof of arithmetic can be found by appealing to systems
 outside that arithmetic. Thus, Gödel's Proof indirectly shows that in order to
 determine the consistency of any new system we must construct or uncover another
-system beyond it ([^29], [^27]). Over and over this cycle must be repeated
-to determine the consistency of more and more elaborate systems ([^29],
-[^27]).
+system beyond it (29, 27). Over and over this cycle must be repeated to
+determine the consistency of more and more elaborate systems (29, 27).
 
 Keeping this process in mind, let us see how Gödel's results impact the effort
 to improve the match-up of concept with observed reality. To do this we will
@@ -232,17 +233,17 @@ Principle.
 
 The Indeterminacy Principle uncovered by Werner Heisenberg in 1927 showed that
 one could not simultaneously fix or determine precisely the velocity and
-position of a particle or body ([^14], [^9]). Specifically he showed, due to the
+position of a particle or body (14, 9). Specifically he showed, due to the
 presence and influence of an observer, that the product of the velocity and
 position uncertainties is equal to or greater than a small number (Planck's
-Constant) divided by the mass of the particle or body being investigated. In
-other words,
+Constant) divided by the mass of the particle or body being investigated.
+In other words,
 
-    dV x dQ >= h/m ,where
+$\Delta V \times  \Delta Q \ge h/m$, where
 
-    dV is velocity uncertainty
-    dQ is position uncertainty and
-    h/m is Planck's constant (h) divided by observed mass (m).
+$\Delta V$ is velocity uncertainty  
+$\Delta Q$ is position uncertainty and  
+$h/m$ is Planck's constant divided by observed mass.
 
 Examination of Heisenberg's Principle reveals that as mass becomes exceedingly
 small the uncertainty or indeterminacy, becomes exceedingly large. Now -- in
@@ -250,8 +251,8 @@ accordance with this relation -- when the precision, or mass, of phenomena being
 observed is little, or no different than the precision, or mass, of the
 observing phenomena the uncertainty values become as large as, or larger than,
 the velocity and size frame-of-reference associated with the bodies being
-observed ([^9]). In other words, when the intended distinction between
-observer and observed begins to disappear ([^3]), the uncertainty values hide
+observed (9). In other words, when the intended distinction between
+observer and observed begins to disappear (3), the uncertainty values hide
 or mask phenomena behavior; or put another way, the observer perceives uncertain
 or erratic behavior that bounces all over in accordance with the indeterminacy
 relation.  Under these circumstances, the uncertainty values represent the
@@ -259,17 +260,17 @@ inability to determine the character or nature (consistency) of a system within
 itself. On the other hand, if the precision and subtlety of the observed
 phenomena is much less than the precision and subtlety of the observing
 phenomena, the uncertainty values become much smaller than the velocity and size
-values of the bodies being observed ([^9]). Under these circumstances, the
+values of the bodies being observed (9). Under these circumstances, the
 character or nature of a system can be determined -- although not exactly --
 since the uncertainty values do not hide or mask observed phenomena behavior nor
 indicate significant erratic behavior.
 
 Keeping in mind that the Heisenberg Principle implicitly depends upon the
-indeterminate presence and influence of an observer ([^14]), we can now see
+indeterminate presence and influence of an observer (14), we can now see
 -- as revealed by the two examples just cited -- that the magnitude of the
 uncertainty values represent the degree of intrusion by the observer upon the
 observed. When intrusion is total (that is, when the intended distinction
-between observer and observed essentially disappears,([^3]) the uncertainty
+between observer and observed essentially disappears,(3) the uncertainty
 values indicate erratic behavior. When intrusion is low the uncertainty values
 do not hide or mask observed phenomena behavior, nor indicate significant
 erratic behavior. In other words, the uncertainty values not only represent the
@@ -279,16 +280,16 @@ confusion and disorder perceived by that observer.
 ## Entropy and the Second Law of Thermodynamics
 
 Confusion and disorder are also related to the notion of entropy and the Second
-Law of Thermodynamics ([^11], [^20]). Entropy is a concept that represents
+Law of Thermodynamics (11, 20). Entropy is a concept that represents
 the potential for doing work, the capacity for taking action, or the degree of
 confusion and disorder associated with any physical or information activity.
 High entropy implies a low potential for doing work, a low capacity for taking
 action or a high degree of confusion an disorder. Low entropy implies just the
 opposite.  Viewed in this context, the Second Law of Thermodynamics states that
-all observed natural processes generate entropy ([^20]). From this law it
+all observed natural processes generate entropy (20). From this law it
 follows that entropy must increase in any closed system -- or, for that matter,
 in any system that cannot communicate in an ordered fashion with other systems
-or environments external to itself ([^20]). Accordingly, whenever we attempt
+or environments external to itself (20). Accordingly, whenever we attempt
 to do work or take action inside such a system -- a concept and its match-up
 with reality -- we should anticipate an increase in entropy hence an increase in
 confusion and disorder.  Naturally, this means we cannot determine the character
@@ -369,48 +370,48 @@ societies seem to work in dialectic harmony driving and regulating the
 destructive/creative, or deductive/inductive, action -- that we have described
 herein as a dialectic engine. The result is a changing and expanding universe of
 mental concepts matched to a changing and expanding universe of observed reality
-([^28], [^27]). As indicated earlier, these mental concepts are employed
-as decision models by individuals and societies for determining and monitoring
-actions needed to cope with their environment -- or to improve their capacity
-for independent action.
+(28, 27). As indicated earlier, these mental concepts are employed as decision
+models by individuals and societies for determining and monitoring actions
+needed to cope with their environment -- or to improve their capacity for
+independent action.
 
 
 ## Bibliography
 
-[^1]: Beveridge, W. I. B., The Art of Scientific Investigation Vintage Books, Third Edition 1957
-[^2]: Boyd, John R., "Destruction and Creation," 23 Mar 1976
-[^3]: Brown, G. Spencer, Laws of Form, Julian Press, Inc. 1972
-[^4]: Conant, James Bryant, Two Modes of Thought, Credo Perspectives, Simon and Schuster 1970
-[^5]: DeBono, Edward, New Think, Avon Books 1971
-[^6]: DeBono, Edward, Lateral Thinking: Creativity Step by Step, Harper Colophon Books 1973
-[^7]: Foster, David, The Intelligent Universe, Putnam, 1975
-[^8]: Fromm, Erich, The Crisis of Psychoanalysis, Fawcett Premier Books 1971
-[^9]: Gamow, George, Thirty Years That Shook Physics, Anchor Books 1966
-[^10]: Gardner, Howard, The Quest for Mind, Vintage Books 1974
-[^11]: Georgescu-Roegen, Nicholas, The Entropy Law and the Economic Process, Harvard U. Press 1971
-[^12]: Gödel, Kurt, "On Formally Undecidable Propositions of the Principia Mathematica and Related Systems," pages 3-38, The Undecidable, Raven Press 1965
-[^13]: Heilbroner, Robert L., An Inquiry into the Human Prospect, Norton and Co. 1974
-[^14]: Heisenberg, Werner, Physics and Philosophy, Harper Torchbooks 1962
-[^15]: Heisenberg, Werner, Across the Frontiers, World Perspectives, Harper and Row 1974
-[^16]: Hoyle, Fred, Encounter with the Future, Credo Perspectives, Simon and Schuster 1968
-[^17]: Hoyle, Fred, The New Face of Science, Perspectives in Humanism, World Publishing Co. 1971
-[^18]: Kramer, Edna E., The Nature and Growth of Modern Mathematics, Fawcett Permier Books 1974
-[^19]: Kuhn, Thomas S., The Structure of Scientific Revolutions, University of Chicago Press 1970
-[^20]: Layzer, David, The Arrow of Time, Scientific American, December 1975
-[^21]: Levinson, Harry, The Exceptional Executive, Mentor Books 1971
-[^22]: Maltz, Maxwell, Psycho-Cybernetics, Wilshire Book Co. 1971
-[^23]: Nagel, Ernest and Newman, James R., Gödel's Proof, New York U. Press 1958
-[^24]: Osborne, Alex F., Applied Imagination, Scribners and Sons 1963
-[^25]: Pearce, Joseph Chilton, The Crack in the Cosmic Egg, Pocket Book 1975
-[^26]: Pearce, Joseph Chilton, Exploring the Crack in the Cosmic Egg, Pocket Book 1975
-[^27]: Piaget, Jean, Structuralism, Harper Torchbooks 1971
-[^28]: Polanyi, Michael, Knowing and Being, University of Chicago Press 1969
-[^29]: Singh, Jagjit, Great Ideas of Modern Mathematics: Their Nature and Use, Dover 1959
-[^30]: Skinner, B.F., Beyond Freedom and Dignity, Bantom/Vintage Books 1972
-[^31]: Thompson, William Irwin, At the Edge of History, Harper Colophon Books 1972
-[^32]: Thompson, William Irwin, Evil and World Order, World Perspective, Harper and Row 1976
-[^33]: Tse-Tung, Mao, Four Essays on China and World Communism, Lancer Books 1972
-[^34]: Waismann, Friedrich, Introduction to Mathematical Thinking, Harper Torchbooks 1959
-[^35]: Watts, Alan, The Book, Vintage Books 1972
-[^36]: Yukawa, Hideki, Creativity and Intuition, Kodansha International LTD 1973
+1. Beveridge, W. I. B., *The Art of Scientific Investigation*, Vintage Books, Third Edition 1957
+2. Boyd, John R., *Destruction and Creation*, 23 Mar 1976
+3. Brown, G. Spencer, *Laws of Form*, Julian Press, Inc. 1972
+4. Conant, James Bryant, *Two Modes of Thought*, Credo Perspectives, Simon and Schuster 1970
+5. DeBono, Edward, *New Think*, Avon Books 1971
+6. DeBono, Edward, *Lateral Thinking: Creativity Step by Step*, Harper Colophon Books 1973
+7. Foster, David, *The Intelligent Universe*, Putnam, 1975
+8. Fromm, Erich, *The Crisis of Psychoanalysis*, Fawcett Premier Books 1971
+9. Gamow, George, *Thirty Years That Shook Physics*, Anchor Books 1966
+10. Gardner, Howard, *The Quest for Mind*, Vintage Books 1974
+11. Georgescu-Roegen, Nicholas, *The Entropy Law and the Economic Process*, Harvard U. Press 1971
+12. Gödel, Kurt, *On Formally Undecidable Propositions of the Principia Mathematica and Related Systems*, pages 3-38, *The Undecidable*, Raven Press 1965
+13. Heilbroner, Robert L., *An Inquiry into the Human Prospect*, Norton and Co. 1974
+14. Heisenberg, Werner, *Physics and Philosophy*, Harper Torchbooks 1962
+15. Heisenberg, Werner, *Across the Frontiers*, World Perspectives, Harper and Row 1974
+16. Hoyle, Fred, *Encounter with the Future*, Credo Perspectives, Simon and Schuster 1968
+17. Hoyle, Fred, *The New Face of Science*, Perspectives in Humanism, World Publishing Co. 1971
+18. Kramer, Edna E., *The Nature and Growth of Modern Mathematics*, Fawcett Permier Books 1974
+19. Kuhn, Thomas S., *The Structure of Scientific Revolutions*, University of Chicago Press 1970
+20. Layzer, David, *The Arrow of Time*, Scientific American, December 1975
+21. Levinson, Harry, The Exceptional Executive, Mentor Books 1971
+22. Maltz, Maxwell, *Psycho-Cybernetics*, Wilshire Book Co. 1971
+23. Nagel, Ernest and Newman, James R., *Gödel's Proof*, New York U. Press 1958
+24. Osborne, Alex F., *Applied Imagination*, Scribners and Sons 1963
+25. Pearce, Joseph Chilton, *The Crack in the Cosmic Egg*, Pocket Book 1975
+26. Pearce, Joseph Chilton, *Exploring the Crack in the Cosmic Egg*, Pocket Book 1975
+27. Piaget, Jean, *Structuralism*, Harper Torchbooks 1971
+28. Polanyi, Michael, *Knowing and Being*, University of Chicago Press 1969
+29. Singh, Jagjit, *Great Ideas of Modern Mathematics: Their Nature and Use*, Dover 1959
+30. Skinner, B.F., *Beyond Freedom and Dignity*, Bantom/Vintage Books 1972
+31. Thompson, William Irwin, *At the Edge of History*, Harper Colophon Books 1972
+32. Thompson, William Irwin, *Evil and World Order*, World Perspective, Harper and Row 1976
+33. Tse-Tung, Mao, *Four Essays on China and World Communism*, Lancer Books 1972
+34. Waismann, Friedrich, *Introduction to Mathematical Thinking*, Harper Torchbooks 1959
+35. Watts, Alan, *The Book*, Vintage Books 1972
+36. Yukawa, Hideki, *Creativity and Intuition*, Kodansha International LTD 1973
 
