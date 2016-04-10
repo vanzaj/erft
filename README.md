@@ -5,6 +5,7 @@ they can be easily converted to epub/mobi with `pandoc` and `kindlgen`:
 
     pandoc --smart --toc $file.md -o $file.epub
 
+Or checkout `gen_epub.sh`.
 
 ## Texts
 
@@ -12,3 +13,4 @@ they can be easily converted to epub/mobi with `pandoc` and `kindlgen`:
 - Boyd, John R.: Destruction and Creation
 - Haldane, John B. S.: On Being the Right Size
 - Hamming, Richard: You and Your Research
+- Sutherland, Ivan: Technology and Courage
