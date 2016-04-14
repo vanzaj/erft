@@ -1,12 +1,9 @@
-% Ce qu'on voit et ce qu'on ne voit pas
-% Frédéric Bastiat
-% Juillet 1850
+---
+title: Ce qu'on voit et ce qu'on ne voit pas
+author: Frédéric Bastiat
+date: Juillet 1850
+...
 
-**Ce qu'on voit et ce qu'on ne voit pas**
-
-by Frédéric Bastiat
-
-original: <http://bastiat.org/fr/cqovecqonvp.html>
 
 Introduction
 ============
@@ -1874,3 +1871,4 @@ dans la masse et le bien plus concentré sur un point. (Ébauche inédite de
 l'auteur)
 
 
+source: <http://bastiat.org/fr/cqovecqonvp.html>

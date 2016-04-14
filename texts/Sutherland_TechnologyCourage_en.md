@@ -1,6 +1,8 @@
-% Technology and Courage
-% Ivan Sutherland
-% April 1996
+---
+title: Technology and Courage
+author: Ivan Sutherland
+date: April 1996
+...
 
 
 # Notes from the Author
@@ -24,7 +26,7 @@ on the World Wide Web.  You may reproduce this document for any not-for-profit
 purpose. Reproduction for profit or where a royalty is paid to anyone requires
 prior permission from the author.
 
-Ivan Sutherland  
+Ivan Sutherland\ 
 Mountain View, CA December 1995
 
 
@@ -133,10 +135,10 @@ and punishments in the form of written or unwritten contracts.
 Contracts often contain deadlines. Deadlines help inspire us to extra effort
 because the task must be done on time. In some research, deadlines are absolute:
 a space mission to study Halley's Comet must be launched on time, but softer,
-self- imposed deadlines are also useful for raising the urgency of tasks. An
+self-imposed deadlines are also useful for raising the urgency of tasks. An
 architect friend of mine taught me the word "charette," meaning the feverish
 activity immediately preceding a deadline. The term comes from the French name
-for the horse- drawn carts in Paris that carried architectural students with
+for the horse-drawn carts in Paris that carried architectural students with
 their architectural models from their workshops to their examinations, still
 feverishly finishing the models "en charette." In the vernacular English we can
 speak of "having a charette," and, of course, there is a verb form: "charetting
@@ -441,7 +443,7 @@ a global economic war.
 
 One reason for the shortsightedness of business in the Unted States today is
 that the profit sharing plans for executives consider only immediate profit and
-not long- term growth. Another reason for business shortsightedness is that the
+not longterm growth. Another reason for business shortsightedness is that the
 judgement of shareholders about winners and losers is based on quarterly results
 instead of long-term gains. Are you aware for example, that although the trading
 rate on the New York Stock Exchange is slow enough to turn over all of the
@@ -586,7 +588,7 @@ go on to the larger programming task involved in thesis work [7] and it
 encouraged my sponsors to support the more complex project. My point is that a
 warm-up project not only teaches, but also encourages. Some universities,
 including MIT, even require a Master's thesis, a formal warm-up project, before
-the student embarks on a Ph.D. Remember, "programs are like pancakesÐ throw the
+the student embarks on a Ph.D. Remember, "programs are like pancakes; throw the
 first one away."
 
 ## 3.4 Procedures
@@ -981,7 +983,7 @@ terminals on the board. This comes about because although the probability of
 crossing is higher for wires connecting three terminals, 3/4 rather than 1/2,
 the number of wires is correspondingly reduced from N/2 to N/3. This simple
 observation led us to explore other wiring patterns, gather some data from real
-printed circuit boards, and eventually to publish a paper [4] called 
+printed circuit boards, and eventually to publish a paper [4] called
 *How Big Should a Printed Circuit Board Be?* Follow your curiosity.
 
 Beauty provides another form of personal encouragement for me. Some of the
@@ -1039,7 +1041,7 @@ technology start-up companies.
 2. Sutherland, I.E., and Ullner, M.K. "Footprints in the Asphalt." The International Journal of Robotics Research. Vol. 3, No. 2. Summer 1984, MIT Press.
 3. Sutherland, I.E., Sproull, R.F., and Schumacker, R.A. "A Characterization of Ten HiddenSurface Algorithms." Computing Surveys: Journal of the ACM. March 1974. Summarized in Naval Research Reviews. June 1975, pp. 21-23.
 4. Sutherland, I.E., and Oestreicher, D. "How Big Should a Printed Circuit Board Be?" IEEE Transactions of Computers. Vol. C22, May 1973, pp. 537-542.
-5. Sutherland, I.E. "A Method of Solving Arbitrary Wall Mazes by Computers." IEEE Transactions on Computers. Vol. C18, No. 12, December 1969, pp. 1092- 1097.
+5. Sutherland, I.E. "A Method of Solving Arbitrary Wall Mazes by Computers." IEEE Transactions on Computers. Vol. C18, No. 12, December 1969, pp. 1092 -- 1097.
 6. Myer, T.H., and Sutherland, I.E. "On the Design of Display Processors." Communications of the ACM. June 1968, Vol. 11, No. 6, pp. 410-414.
 7. Sutherland, I.E. "Sketchpad -- A ManMachine Graphical Communication System." Proceedings of the Spring Joint Computer Conference, Detroit, Michigan. May 1963, and MIT Lincoln Laboratory Technical Report #296, January 1963.
 8. Sutherland, I.E. "Asynchronous First-In-First-Out Register Structure." United States Patent 4,837,740, June 6, 1989.

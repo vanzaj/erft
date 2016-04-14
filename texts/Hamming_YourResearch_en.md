@@ -1,8 +1,9 @@
-% You and Your Research
-% Richard Hamming
-% March 7, 1986
+---
+title: You and Your Research
+author: Richard Hamming
+date: March 7, 1986
+...
 
-original: <http://www.cs.virginia.edu/~robins/YouAndYourResearch.html>
 
 Transcription of the\
 Bell Communications Research Colloquium Seminar\
@@ -1308,3 +1309,5 @@ Hamming and Alan Chynoweth for all of their help in bringing this
 transcription to its present readable state.
 
 J. F. Kaiser
+
+source: <http://www.cs.virginia.edu/~robins/YouAndYourResearch.html>

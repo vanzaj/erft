@@ -1,6 +1,8 @@
-% On Being the Right Size
-% J. B. S. Haldane
-% March 1926
+---
+title: On Being the Right Size
+author: J. B. S. Haldane
+date: March 1926
+...
 
 The most obvious differences between different animals are differences of size,
 but for some reason the zoologists have paid singularly little attention to
@@ -13,7 +15,7 @@ convenient size, and a large change in size inevitably carries with it a change
 of form.
 
 Let us take the most obvious of possible cases, and consider a giant man sixty
-feet high - about the height of Giant Pope and Giant Pagan in the illustrated
+feet high -- about the height of Giant Pope and Giant Pagan in the illustrated
 Pilgrim’s Progress of my childhood. These monsters were not only ten times as
 high as Christian, but ten times as wide and ten times as thick, so that their
 total weight was a thousand times his, or about eighty to ninety tons.
@@ -56,7 +58,7 @@ many times its own weight and, as everyone knows, a fly once wetted by water or
 any other liquid is in a very serious position indeed.  An insect going for a
 drink is in a great danger as man leaning out over a precipice in search of
 food. If it once falls into the grip of the surface tension of the water -that
-is to say, gets wet - it is likely to remain so until it downs.  A few insects,
+is to say, gets wet -- it is likely to remain so until it downs.  A few insects,
 such as water-beetles, contrive to be unwettable; the majority keep well away
 from their drink by means of a long proboscis.
 
@@ -268,7 +270,7 @@ famous than he is:
 
 It is worth mentioning, to those who are keen on books for their own sake, that
 his most sought-after and valuable publication, as far as collectors are
-concerned, is the short story My Friend Mr Leakey - which indeed is where the
+concerned, is the short story My Friend Mr Leakey -- which indeed is where the
 'queerer than we suppose' quotation can be found in print (though it is likely
 that JBSH thought this one up beforehand and incorporated it in the story for
 our amusement).

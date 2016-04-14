@@ -1,6 +1,8 @@
-% Destruction and Creation
-% John R. Boyd
-% September 3, 1976
+---
+title: Destruction and Creation
+author: John R. Boyd
+date: September 3, 1976
+...
 
 To comprehend and cope with our environment we develop mental patterns or
 concepts of meaning. The purpose of this paper is to sketch out how we destroy
