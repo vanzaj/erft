@@ -16,4 +16,5 @@ Or checkout `gen_epub.sh`.
 - Haldane, John B. S.: On Being the Right Size (1926)
 - Hamming, Richard: You and Your Research (1986)
 - Hintjens, Pieter: The Power of Living Systems (2014)
+- Lehr, J. H.: Let there be stoning! (1985)
 - Sutherland, Ivan: Technology and Courage (1996)
