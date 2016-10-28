@@ -18,3 +18,4 @@ Or checkout `gen_epub.sh`.
 - Hintjens, Pieter: The Power of Living Systems (2014)
 - Lehr, J. H.: Let there be stoning! (1985)
 - Sutherland, Ivan: Technology and Courage (1996)
+- Tversky and Kahneman: Belief in the law of small numbers (1971)
