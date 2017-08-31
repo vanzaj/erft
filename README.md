@@ -17,5 +17,6 @@ Or checkout `gen_epub.sh`.
 - Hamming, Richard: You and Your Research (1986)
 - Hintjens, Pieter: The Power of Living Systems (2014)
 - Lehr, J. H.: Let there be stoning! (1985)
+- Shannon, Claude: Creative Thinking (1952)
 - Sutherland, Ivan: Technology and Courage (1996)
 - Tversky and Kahneman: Belief in the law of small numbers (1971)
