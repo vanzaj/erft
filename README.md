@@ -12,6 +12,7 @@ Or checkout `gen_epub.sh`.
 - Bastiat, Frédéric: Ce qu'on voit et ce qu'on ne voit pas (1850, *fr*)
 - Boyd, John R.: Destruction and Creation (1976)
 - Bush, Vannevar: As We May Think (1945)
+- Dijkstra, Edsger W.: On the role of scientific thought (1974)
 - Feynman, Richard: Cargo Cult Science (1974)
 - Haldane, John B. S.: On Being the Right Size (1926)
 - Hamming, Richard: You and Your Research (1986)
