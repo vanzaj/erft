@@ -21,3 +21,4 @@ Or checkout `gen_epub.sh`.
 - Shannon, Claude: Creative Thinking (1952)
 - Sutherland, Ivan: Technology and Courage (1996)
 - Tversky and Kahneman: Belief in the law of small numbers (1971)
+- Vaill, Peter V.: Behavioral Description of High-Performing Systems (1978)
