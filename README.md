@@ -20,5 +20,6 @@ Or checkout `gen_epub.sh`.
 - Lehr, J. H.: Let there be stoning! (1985)
 - Shannon, Claude: Creative Thinking (1952)
 - Sutherland, Ivan: Technology and Courage (1996)
+- Sutton, Richard S.: The Bitter Lesson (2019) 
 - Tversky and Kahneman: Belief in the law of small numbers (1971)
 - Vaill, Peter V.: Behavioral Description of High-Performing Systems (1978)
