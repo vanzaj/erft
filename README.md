@@ -18,6 +18,7 @@ Or checkout `gen_epub.sh`.
 - Hamming, Richard: You and Your Research (1986)
 - Hintjens, Pieter: The Power of Living Systems (2014)
 - Lehr, J. H.: Let there be stoning! (1985)
+- Naur, Peter: Programming as Theory Building (1985)
 - Shannon, Claude: Creative Thinking (1952)
 - Sutherland, Ivan: Technology and Courage (1996)
 - Sutton, Richard S.: The Bitter Lesson (2019) 
